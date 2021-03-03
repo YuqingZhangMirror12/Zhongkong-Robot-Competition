@@ -8,6 +8,6 @@ Autonomous robots participate in the competition. The robot starts from the red 
 ![image](https://github.com/YuqingZhangMirror12/Zhongkong-Robot-Competition/blob/main/Competition%20Map.png)
 
 # Code
-## CV_Py contains the Vision Code for Object goods detection.
-## CV01 contains all train, test, validation dataset created by us.
-## Base Code contains the moving motor control, grasping control, photoelectric sensor recognition and line patrol code.
+CV_Py contains the Vision Code for Object goods detection.  
+CV01 contains all train, test, validation dataset created by us.  
+Base Code contains the moving motor control, grasping control, photoelectric sensor recognition and line patrol code.  
