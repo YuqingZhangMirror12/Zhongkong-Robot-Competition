@@ -1,0 +1,7 @@
+﻿  find.cpp
+f:\vs2015\cv01\findrect\find.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\cv01\findrect\find.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\cv01\findrect\find.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015\cv01\findrect\find.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+  FindRect.vcxproj -> F:\VS2015\CV01\Debug\FindRect.exe
+  FindRect.vcxproj -> F:\VS2015\CV01\Debug\FindRect.pdb (Partial PDB)
